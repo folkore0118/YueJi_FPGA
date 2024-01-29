@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Sun Jan 28 19:53:24 2024
+# Process ID: 10768
+# Current directory: C:/Users/Yue_Ji/Desktop/DDS/DDS_ACM2108
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19112 C:\Users\Yue_Ji\Desktop\DDS\DDS_ACM2108\DDS_ACM2108.xpr
+# Log file: C:/Users/Yue_Ji/Desktop/DDS/DDS_ACM2108/vivado.log
+# Journal file: C:/Users/Yue_Ji/Desktop/DDS/DDS_ACM2108\vivado.jou
+# Running On: DESKTOP-KCI1NIP, OS: Windows, CPU Frequency: 2208 MHz, CPU Physical cores: 8, Host memory: 16943 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Yue_Ji/Desktop/DDS/DDS_ACM2108/DDS_ACM2108.xpr
+update_compile_order -fileset sources_1
+write_project_tcl -all_properties -use_bd_files {D:/usually_procedure/xilinx/vivado/entertainment/DDS_ACM2108.tcl}
